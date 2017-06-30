@@ -1,0 +1,15 @@
+﻿已經開始建置於 2017/06/12 下午 11:21:56。
+     1>節點 2 (Build 目標) 上的專案 "D:\National_Taiwan_Ocean_University\OpenGL_Project\OpenGL_Project.vcxproj"。
+     1>ClCompile:
+         D:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I.\Dependent\include /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Hw3.cpp
+         Hw3.cpp
+       Link:
+         D:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\National_Taiwan_Ocean_University\OpenGL_Project\Debug\OpenGL_Project.exe" /INCREMENTAL /NOLOGO /LIBPATH:.\Dependent\lib\Win32 glew32.lib glut32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\National_Taiwan_Ocean_University\OpenGL_Project\Debug\OpenGL_Project.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /ENTRY:"mainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\National_Taiwan_Ocean_University\OpenGL_Project\Debug\OpenGL_Project.lib" /MACHINE:X86 Debug\Hw3.obj
+         Debug\PolyhedronLoader.obj
+         Debug\readbmp.obj
+         OpenGL_Project.vcxproj -> D:\National_Taiwan_Ocean_University\OpenGL_Project\Debug\OpenGL_Project.exe
+     1>專案 "D:\National_Taiwan_Ocean_University\OpenGL_Project\OpenGL_Project.vcxproj" (Build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:00.44

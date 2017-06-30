@@ -1,0 +1,19 @@
+﻿已經開始建置於 2017/06/30 下午 03:34:26。
+     1>節點 2 (Build 目標) 上的專案 "D:\National_Taiwan_Ocean_University\OpenGL_Project\OpenGL_Project.vcxproj"。
+     1>ClCompile:
+         D:\Program Files\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I.\Dependent\include /Zi /nologo /W3 /WX- /sdl /Od /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt Hw5Man.cpp
+         Hw5Man.cpp
+     1>Hw5Man.cpp(244): warning C4244: '引數' : 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+       Link:
+         D:\Program Files\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\National_Taiwan_Ocean_University\OpenGL_Project\x64\Debug\OpenGL_Project.exe" /INCREMENTAL /NOLOGO /LIBPATH:.\Dependent\lib\x64 freeglut.lib glew32.lib OpenAL32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\National_Taiwan_Ocean_University\OpenGL_Project\x64\Debug\OpenGL_Project.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /ENTRY:"mainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\National_Taiwan_Ocean_University\OpenGL_Project\x64\Debug\OpenGL_Project.lib" /MACHINE:X64 x64\Debug\Hw5Audio.obj
+         x64\Debug\Hw5Camera.obj
+         x64\Debug\Hw5Main.obj
+         x64\Debug\Hw5Man.obj
+         x64\Debug\Hw5Scene.obj
+         x64\Debug\readbmp.obj
+         OpenGL_Project.vcxproj -> D:\National_Taiwan_Ocean_University\OpenGL_Project\x64\Debug\OpenGL_Project.exe
+     1>專案 "D:\National_Taiwan_Ocean_University\OpenGL_Project\OpenGL_Project.vcxproj" (Build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:00.62
